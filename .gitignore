@@ -1,0 +1,11 @@
+*
+!.gitignore
+!Makefile
+!*/
+!inc/*
+!src/*
+!resource/framework/**
+!resource/levels/**
+!resource/sounds/**
+!resource/assets/**
+.DS_Stroe
